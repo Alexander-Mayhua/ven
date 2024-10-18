@@ -1,122 +1,355 @@
-<div class="container-fluid p-0" >
-            <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-indicators ">
-                    <button type="button" data-bs-target="#carouselExampleInterval" data-bs-slide-to="0" class="active"
-                        aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#carouselExampleInterval" data-bs-slide-to="1"
-                        aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#carouselExampleInterval" data-bs-slide-to="2"
-                        aria-label="Slide 3"></button>
-                </div>
-                <div class="carousel-inner">
-                    <div class="carousel-item active" data-bs-interval="2000">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEbN-QcEguxcZGjD2hsAFlR0PrCioAsu3xyw&s"
-                            class="d-block w-100" alt="..." height="600px" >
-                        <div class="carousel-caption d-none d-md-block">
-                            <h5>ZAPATERIA MENDOZA</h5>
-                            <p>Bienvenido al Zapateria Mendoza</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JRj8gl-rckbSOnXto2ALK8tlPb8N6XhTXg&s"
-                            class="d-block w-100" alt="..." height="600px" >
-                        <div class="carousel-caption d-none d-md-block">
-                            <h5>ZAPATERIA MENDOZA</h5>
-                            <p>Bienvenido al Zapateria Mendoza</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item" data-bs-interval="2000">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjigtnCk7u5JtWHfhuwKnRfEyfPDz1msjmGQ&s"
-                            class="d-block w-100" alt="..." height="600px" >
-                        <div class="carousel-caption d-none d-md-block">
-                            <h5>ZAPATERIA MENDOZA</h5>
-                            <p>Bienvenido al Zapateria Mendoza</p>
-                        </div>
-                    </div>
-                </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
-                    data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
-                    data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
-            </div>
-        </div>
-        <h3 class="text-center p-3">INFORMACION</h3>
-        <div class="container-fluid m-0 p-3 mt-4 row "  style="background:rgba(189, 190, 189, 0.277);">
-            <div class="col-lg-3 col-md-4 col-sm-6 p-2">
-                <div class="card" style="min-height: 400px;">
-                   <H4></H4>
-                    <div class="card-body">
-                        <h5 class="card-title text-center" >MISION</h5>
-                        <div class="overflow-y-hidden" style="height: 190px;">
-                            <p class="card-text text-center p-5">Enfoque en Calidad y Estilo Duradero: "En (Zapateria Mendoza), nuestra misión es proporcionar a nuestros clientes calzado de la más alta calidad que refleje estilo, comodidad y durabilidad.</p>
-                        </div><br>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 p-2">
-                <div class="card" style="min-height: 400px;">
-                   <H4></H4>
-                    <div class="card-body">
-                        <h5 class="card-title text-center">VISION</h5>
-                        <div class="overflow-y-hidden" style="height: 190px;">
-                            <p class="card-text text-center p-5">  Líderes en la Transformación del Calzados: "Nuestra visión en (zapateria Mendoza), es ser líderes en la transformación de la industria del calzado.</p>
-                        </div><br>
-                        <div class="text-center">
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 p-2">
-                <div class="card" style="min-height: 400px;">
-                   <H4></H4>
-                    <div class="card-body">
-                        <h5 class="card-title text-center">VALORES</h5>
-                        <div class="overflow-y-hidden" style="height: 190px;">
-                            <p class="card-text text-center p-5">1. Honestidad<br>
-                                 
-                                2. Calidad<br>
-                                
-                                3. Puntualida</p>
-                        </div><br>
-                        <div class="text-center">
-                          
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 p-2">
-                <div class="card" style="min-height: 400px;">
-                
-                    <div class="card-body">
-                        <h5 class="card-title text-center">LOCALES</h5>
-                        <div class="overflow-y-hidden" style="height: 190px;">
-                            <p class="card-text text-center p-5">Jr. Oswaldo N. Regal N° 278, Huanta 05121</p>
-                        </div><br>
-                        <div class="text-center">
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <h1 style="text-align: center;">Mi Ubicacion</h1>
-            <iframe
-             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.502477249676!2d-74.25304172677976!3d-12.939666559164177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x910d83ca6ffd1fd5%3A0x59da7d31f8f0beb3!2sZapater%C3%ADa%20Mendoza!5e0!3m2!1ses-419!2spe!4v1720824676799!5m2!1ses-419!2spe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
-                width="600"
-                height="450"
-                style="border:0;"
-                allowfullscreen=""
-                loading="lazy"></iframe>
-
-
-
-        </div>
-        <div class="div"></div>
+<body>
+	<!-- pageWrapper -->
+	<div id="pageWrapper">
+		<!-- header -->
+		<header id="header" class="position-relative">
+			<!-- headerHolderCol -->
+			<div class="headerHolderCol pt-lg-4 pb-lg-5 py-3">
+				<div class="container">
+					<div class="row">
+						<div class="col-12 col-sm-4">
+							<a href="javascript:void(0);" class="tel d-flex align-items-end"><i class="icon-call mr-2"></i>  Hotline: (602) 462 8889</a>
+						</div>
+						<div class="col-12 col-sm-4 text-center">
+							<span class="txt d-block">Wellcome To Botanical Store</span>
+						</div>
+						<div class="col-12 col-sm-4">
+							<!-- langListII -->
+							<ul class="nav nav-tabs langListII justify-content-end border-bottom-0">
+								<li class="dropdown">
+									<span>Currency: </span>
+									<a class="d-inline dropdown-toggle text-uppercase" data-toggle="dropdown" href="javascript:void(0);" role="button" aria-haspopup="true" aria-expanded="false">USD</a>
+									<div class="dropdown-menu text-uppercase pl-4 pr-4 border-0">
+										<a class="dropdown-item" href="javascript:void(0);">USD</a>
+										<a class="dropdown-item" href="javascript:void(0);">VND</a>
+										<a class="dropdown-item" href="javascript:void(0);">euro</a>
+									</div>
+								</li>
+								<li class="dropdown m-0">
+									<span>Languages: </span>
+									<a class="d-inline dropdown-toggle text-uppercase" data-toggle="dropdown" href="javascript:void(0);" role="button" aria-haspopup="true" aria-expanded="false">EN</a>
+									<div class="dropdown-menu pl-4 pr-4">
+										<a class="dropdown-item" href="javascript:void(0);">English</a>
+										<a class="dropdown-item" href="javascript:void(0);">Vietnamese</a>
+										<a class="dropdown-item" href="javascript:void(0);">French</a>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- headerHolder -->
+			<div class="headerHolder container pt-lg-5 pb-lg-7 py-4">
+				<div class="row">
+					<div class="col-6 col-sm-2">
+						<!-- mainLogo -->
+						<div class="logo">
+							<a href="home.html"><img src="images/logo.png" alt="Botanical" class="img-fluid"></a>
+						</div>
+					</div>
+					<div class="col-6 col-sm-7 col-lg-8 static-block">
+						<!-- mainHolder -->
+						<div class="mainHolder pt-lg-5 pt-3 justify-content-center">
+							<!-- pageNav2 -->
+							<nav class="navbar navbar-expand-lg navbar-light p-0 pageNav2 position-static">
+								<button type="button" class="navbar-toggle collapsed position-relative" data-toggle="collapse" data-target="#navbarNav" aria-expanded="false">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+								<div class="collapse navbar-collapse" id="navbarNav">
+									<ul class="navbar-nav mx-auto text-uppercase d-inline-block">
+										<li class="nav-item dropdown">
+											<a class="dropdown-toggle d-block" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">home</a>
+											<ul class="list-unstyled text-capitalize dropdown-menu mt-0 py-0">
+												<li class="d-block mx-0"><a href="home.html">Home 1</a></li>
+												<li class="d-block mx-0"><a href="home2.html">Home 2</a></li>
+												<li class="d-block mx-0"><a href="home3.html">Home 3</a></li>
+											</ul>
+										</li>
+										<li class="nav-item dropdown">
+											<a class="dropdown-toggle d-block" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Store</a>
+											<ul class="list-unstyled text-capitalize dropdown-menu mt-0 py-0">
+												<li class="d-block mx-0"><a href="shop.html">Shop Left Sidebar</a></li>
+												<li class="d-block mx-0"><a href="shop-detail.html">Single Product</a></li>
+											</ul>
+										</li>
+										<li class="nav-item">
+											<a class="d-block" href="about-us.html">About</a>
+										</li>
+										<li class="nav-item active dropdown">
+											<a class="dropdown-toggle d-block" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog</a>
+											<ul class="list-unstyled text-capitalize dropdown-menu mt-0 py-0">
+												<li class="d-block mx-0"><a href="blog.html">Blog Left Sidebar</a></li>
+												<li class="d-block mx-0"><a href="blog-detail.html">Blog Detail</a></li>
+											</ul>
+										</li>
+										<li class="nav-item dropdown">
+											<a class="dropdown-toggle d-block" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
+											<ul class="list-unstyled text-capitalize dropdown-menu mt-0 py-0">
+												<li class="d-block mx-0"><a href="cart-page.html">Cart Page</a></li>
+											</ul>
+										</li>
+										<li class="nav-item">
+											<a class="d-block" href="contact-us.html">contact</a>
+										</li>
+									</ul>
+								</div>
+							</nav>
+						</div>
+					</div>
+					<div class="col-sm-3 col-lg-2">
+						<!-- wishListII -->
+						<ul class="nav nav-tabs wishListII pt-5 justify-content-end border-bottom-0">
+							<li class="nav-item ml-0"><a class="nav-link icon-search" href="javascript:void(0);"></a></li>
+							<li class="nav-item"><a class="nav-link position-relative icon-cart" href="javascript:void(0);"><span class="num rounded d-block">2</span></a></li>
+							<li class="nav-item"><a class="nav-link icon-profile" href="javascript:void(0);"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</header>
+		<main>
+			<!-- introBannerHolder -->
+			<section class="introBannerHolder d-flex w-100 bgCover" style="background-image: url(http://placehold.it/1920x300);">
+				<div class="container">
+					<div class="row">
+						<div class="col-12 pt-lg-23 pt-md-15 pt-sm-10 pt-6 text-center">
+							<h1 class="headingIV fwEbold playfair mb-4">About Us</h1>
+							<ul class="list-unstyled breadCrumbs d-flex justify-content-center">
+								<li class="mr-2"><a href="home.html">Home</a></li>
+								<li class="mr-2">/</li>
+								<li class="active">About</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="abtSecHolder container pt-xl-24 pb-xl-12 pt-lg-20 pb-lg-10 pt-md-16 pb-md-8 pt-10 pb-5">
+				<div class="row">
+					<div class="col-12 col-lg-6 pt-xl-12 pt-lg-8">
+						<h2 class="playfair fwEbold position-relative mb-7 pb-5">
+							<strong class="d-block">A Minimal Team</strong>
+							<strong class="d-block">For a Better World</strong>
+						</h2>
+						<p class="pr-xl-16 pr-lg-10 mb-lg-0 mb-6">Lorem Khaled Ipsum is a major key to success. The ladies always say Khaled you smell good, I use no cologne. Cocoa butter is the key. To succeed you must believe. When you believe, you will succeed. They will try to close the door on you, just open it. The key is to drink coconut, fresh coconut, trust me. It’s important to use cocoa butter. It’s the key to more success, why not live smooth?</p>
+					</div>
+					<div class="col-12 col-lg-6">
+						<img src="http://placehold.it/570x440" alt="image description" class="img-fluid">
+					</div>
+				</div>
+			</section>
+			<section class="counterSec container pt-xl-12 pb-xl-24 pt-lg-10 pb-lg-20 pt-md-8 pb-md-16 pt-5 pb-10">
+				<div class="row">
+					<div class="col-12">
+						<!-- progressCounter -->
+						<ul class="progressCounter list-unstyled mb-2 d-flex flex-wrap text-capitalize text-center">
+							<li class="mb-md-0 mb-3">
+								<strong class="d-block fwEbold counter mb-2">229</strong>
+								<strong class="d-block text-uppercase txtWrap">Happy Clients</strong>
+							</li>
+							<li class="mb-md-0 mb-3">
+								<strong class="d-block fwEbold counter mb-2">109</strong>
+								<strong class="d-block text-uppercase txtWrap">completed project</strong>
+							</li>
+							<li class="mb-md-0 mb-3">
+								<strong class="d-block fwEbold counter mb-2">22</strong>
+								<strong class="d-block text-uppercase txtWrap">awesome staff</strong>
+							</li>
+							<li class="mb-md-0 mb-3">
+								<strong class="d-block fwEbold counter mb-2">11</strong>
+								<strong class="d-block text-uppercase txtWrap">winning awards</strong>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</section>
+			<section class="introSec bg-lightGray pt-xl-12 pb-xl-7 pt-10 pb-10">
+				<div class="container">
+					<div class="row">
+						<div class="col-12 col-lg-6 mb-lg-0 mb-6">
+							<img src="http://placehold.it/490x505" alt="image description" class="img-fluid">
+						</div>
+						<div class="col-12 col-lg-6">
+							<div id="accordion" class="accordionList pt-lg-12">
+								<div class="card mb-2">
+									<div class="card-header px-xl-5 py-xl-3" id="headingOne">
+										<h5 class="mb-0">
+											<button class="btn btn-link fwEbold text-uppercase text-left w-100 p-0" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+											connecting people <i class="fas fa-sort-down float-right"></i>
+											</button>
+										</h5>
+									</div>
+									<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+										<div class="card-body px-xl-5 py-0">
+											<p class="mb-7">To succeed you must believe. When you believe, you will succeed. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion! Lion!</p>
+										</div>
+									</div>
+								</div>
+								<div class="card mb-2">
+									<div class="card-header px-xl-5 py-xl-3" id="headingTwo">
+										<h5 class="mb-0">
+											<button class="btn btn-link fwEbold text-uppercase text-left w-100 collapsed p-0" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+											we build your dream <i class="fas fa-sort-down float-right"></i>
+											</button>
+										</h5>
+									</div>
+									<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+										<div class="card-body px-xl-5 py-0">
+											<p class="mb-7">To succeed you must believe. When you believe, you will succeed. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion! Lion!</p>
+										</div>
+									</div>
+								</div>
+								<div class="card mb-2">
+									<div class="card-header px-xl-5 py-xl-3" id="headingThree">
+										<h5 class="mb-0">
+											<button class="btn btn-link fwEbold text-uppercase text-left w-100 collapsed p-0" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+											nothing to fear <i class="fas fa-sort-down float-right"></i>
+											</button>
+										</h5>
+									</div>
+									<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+										<div class="card-body px-xl-5 py-0">
+											<p class="mb-7">To succeed you must believe. When you believe, you will succeed. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion! Lion!</p>
+										</div>
+									</div>
+								</div>
+								<div class="card mb-2">
+									<div class="card-header px-xl-5 py-xl-3" id="headingFour">
+										<h5 class="mb-0">
+											<button class="btn btn-link fwEbold text-uppercase text-left w-100 collapsed p-0" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+											make the world better <i class="fas fa-sort-down float-right"></i>
+											</button>
+										</h5>
+									</div>
+									<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+										<div class="card-body px-xl-5 py-0">
+											<p class="mb-7">To succeed you must believe. When you believe, you will succeed. Surround yourself with angels, positive energy, beautiful people, beautiful souls, clean heart, angel. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion! Lion!</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="processStepSec container pt-xl-23 pb-xl-10 pt-lg-20 pb-lg-10 pt-md-16 pb-md-8 pt-10 pb-0">
+				<div class="row">
+					<header class="col-12 mainHeader mb-3 text-center">
+						<h1 class="headingIV playfair fwEblod mb-4">Delivery Process</h1>
+						<span class="headerBorder d-block mb-5"><img src="images/hbdr.png" alt="Header Border" class="img-fluid img-bdr"></span>
+					</header>
+				</div>
+				<div class="row">
+					<div class="col-12 pl-xl-23 mb-lg-3 mb-10">
+						<div class="stepCol position-relative bg-lightGray py-6 px-6">
+							<strong class="mainTitle text-uppercase mt-n8 mb-5 d-block text-center py-1 px-3">step 01</strong>
+							<h2 class="headingV fwEblod text-uppercase mb-3">Choose your products</h2>
+							<p class="mb-5">There are many variations of passages of lorem ipsum available, but the majority have suffered alteration in some form, by injected humour. Both betanin</p>
+						</div>
+					</div>
+					<div class="col-12 pr-xl-23 mb-lg-3 mb-10">
+						<div class="stepCol rightArrow position-relative bg-lightGray py-6 px-6 float-right">
+							<strong class="mainTitle text-uppercase mt-n8 mb-5 d-block text-center py-1 px-3">step 02</strong>
+							<h2 class="headingV fwEblod text-uppercase mb-3">Connect nearest stored</h2>
+							<p class="mb-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						</div>
+					</div>
+					<div class="col-12 pl-xl-23 mb-lg-3 mb-10">
+						<div class="stepCol position-relative bg-lightGray py-6 px-6">
+							<strong class="mainTitle text-uppercase mt-n8 mb-5 d-block text-center py-1 px-3">step 03</strong>
+							<h2 class="headingV fwEblod text-uppercase mb-3">Share your location</h2>
+							<p class="mb-5">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+						</div>
+					</div>
+					<div class="col-12 pr-xl-23 mb-lg-3 mb-10">
+						<div class="stepCol rightArrow position-relative bg-lightGray py-6 px-6 float-right">
+							<strong class="mainTitle text-uppercase mt-n8 mb-5 d-block text-center py-1 px-3">step 04</strong>
+							<h2 class="headingV fwEblod text-uppercase mb-3">Get delivered fast</h2>
+							<p class="mb-5">On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="teamSec pt-xl-12 pb-xl-21 pt-lg-10 pb-lg-20 pt-md-8 pb-md-16 pt-0 pb-4">
+				<div class="container">
+					<div class="row">
+						<header class="col-12 mainHeader mb-9 text-center">
+							<h1 class="headingIV playfair fwEblod mb-4">Meet Our Team</h1>
+							<span class="headerBorder d-block mb-5"><img src="images/hbdr.png" alt="Header Border" class="img-fluid img-bdr"></span>
+						</header>
+					</div>
+					<div class="row">
+						<div class="col-12 col-sm-6 col-lg-4 mb-lg-0 mb-6">
+							<article class="teamBlock overflow-hidden">
+								<span class="imgWrap position-relative d-block w-100 mb-4">
+									<img src="http://placehold.it/370x290" class="img-fluid" alt="image description">
+									<ul class="list-unstyled position-absolute mb-0 d-flex justify-content-center socialNetworks">
+										<li><a href="javascript:void(0);" class="fab fa-facebook-f"></a></li>
+										<li><a href="javascript:void(0);" class="fab fa-twitter"></a></li>
+										<li><a href="javascript:void(0);" class="fab fa-instagram"></a></li>
+									</ul>
+								</span>
+								<div class="textDetail w-100 text-center">
+									<h3>
+										<strong class="text-uppercase d-block fwEbold name mb-2"><a href="javascript:void(0);">redikiel</a></strong>
+										<strong class="text-capitalize d-block desination">Co - Founder & CEO</strong>
+									</h3>
+								</div>
+							</article>
+						</div>
+						<div class="col-12 col-sm-6 col-lg-4 mb-lg-0 mb-6">
+							<article class="teamBlock overflow-hidden">
+								<span class="imgWrap position-relative d-block w-100 mb-4">
+									<img src="http://placehold.it/370x290" class="img-fluid" alt="image description">
+									<ul class="list-unstyled position-absolute mb-0 d-flex justify-content-center socialNetworks">
+										<li><a href="javascript:void(0);" class="fab fa-facebook-f"></a></li>
+										<li><a href="javascript:void(0);" class="fab fa-twitter"></a></li>
+										<li><a href="javascript:void(0);" class="fab fa-instagram"></a></li>
+									</ul>
+								</span>
+								<div class="textDetail w-100 text-center">
+									<h3>
+										<strong class="text-uppercase d-block fwEbold name mb-2"><a href="javascript:void(0);">Angela</a></strong>
+										<strong class="text-capitalize d-block desination">Chief of Marketing Team</strong>
+									</h3>
+								</div>
+							</article>
+						</div>
+						<div class="col-12 col-sm-6 col-lg-4 mb-lg-0 mb-6">
+							<article class="teamBlock overflow-hidden">
+								<span class="imgWrap position-relative d-block w-100 mb-4">
+									<img src="http://placehold.it/370x290" class="img-fluid" alt="image description">
+									<ul class="list-unstyled position-absolute mb-0 d-flex justify-content-center socialNetworks">
+										<li><a href="javascript:void(0);" class="fab fa-facebook-f"></a></li>
+										<li><a href="javascript:void(0);" class="fab fa-twitter"></a></li>
+										<li><a href="javascript:void(0);" class="fab fa-instagram"></a></li>
+									</ul>
+								</span>
+								<div class="textDetail w-100 text-center">
+									<h3>
+										<strong class="text-uppercase d-block fwEbold name mb-2"><a href="javascript:void(0);">kevin lee</a></strong>
+										<strong class="text-capitalize d-block desination">Art Director</strong>
+									</h3>
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+			</section>
+			<div class="container-fluid px-xl-20 mb-xl-24 mb-lg-20 mb-md-16 mb-10">
+				<!-- subscribeSecBlock -->
+				<section class="subscribeSecBlock bgCover pt-xl-24 pb-xl-12 pt-lg-20 pb-lg-10 pt-md-16 pb-md-10 py-10 px-3" style="background-image: url(http://placehold.it/1720x465)">
+					<header class="col-12 mainHeader mb-9 text-center">
+						<h1 class="headingIV playfair fwEblod mb-4">Subscribe Our Newsletter</h1>
+						<span class="headerBorder d-block mb-5"><img src="images/hbdr.png" alt="Header Border" class="img-fluid img-bdr"></span>
+						<p class="mb-6">Enter Your email address to join our mailing list and keep yourself update</p>
+					</header>
+					<form class="emailForm1 mx-auto overflow-hidden d-flex flex-wrap">
+						<input type="email" class="form-control px-4 border-0" placeholder="Enter your mail...">
+						<button type="submit" class="btn btnTheme btnShop fwEbold text-white py-3 px-4 py-md-3 px-md-4">Shop Now <i class="fas fa-arrow-right ml-2"></i></button>
+					</form>
+				</section>
+			</div>
